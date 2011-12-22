@@ -127,6 +127,8 @@
                 <data android:mimeType="video/x-ms-asf" />
                 <data android:mimeType="video/x-ms-wmv" />
                 <data android:mimeType="video/mpeg" />
+                <data android:mimeType="video/quicktime" />
+                <data android:mimeType="video/x-matroska" />
              </intent-filter>
         </activity>
 
